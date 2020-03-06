@@ -8,3 +8,6 @@ As more stuff is added I'll add it together with short descriptions to the list 
 
 ### PunScraper
 Super small script, as well as my first one of this kind. It does what it's meant to. Get the data of a specific div, in this case identified with its class and then from that div extract the content of a paragraph. Write it all out to a file and presto! Around 10k godawful jokes ready for you to feed to your NN or neibourghs printer.
+
+### mathSearch
+This baby downloads PDF files from the Croatian Mathematics Society and finds one with specific keywords. Page can be changed and it's probably useful for many similar websites just make sure to brush up on your RegEx to get as much hits as possible.
